@@ -14,4 +14,4 @@
 
 ## Observações (opcional)
 
-(Acho que a parte do Git e do Python é difícil, já estou perdida..)
+(Acho que o Git e o Python são fáceis quando pratico mais..)
