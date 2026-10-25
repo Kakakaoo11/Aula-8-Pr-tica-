@@ -1,17 +1,17 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:XueYan Chen**  
+- **Número:a22608427**  
+- **Turma: VideoJogos Turno 2**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+(Adicionei o meu nome, o némro e a turama.)
 
 ---
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+(Acho que a parte do Git e do Python é difícil, já estou perdida..)
