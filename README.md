@@ -149,4 +149,4 @@ Combina todos os conceitos:
 - Mantém o repositório atualizado com `git pull`.
 
 - Alteração realizada no GitHub para o Exercício 6.
-- 
+- Exercício 7 - Revisão Geral concluído.
