@@ -1,0 +1,2 @@
+Exercicio 4 - Historico e Commits
+Estou a aprender a utilizar os comandos Git.
